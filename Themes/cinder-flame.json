@@ -581,7 +581,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#FF7F50"
     },
     "background": {
-        "blur": 0.5,
+        "blur": 0.25,
         "url": "https://i.pinimg.com/736x/5f/5f/00/5f5f001d52f1feeb0714cd64060f6f79.jpg"
     },
     "plus": {
