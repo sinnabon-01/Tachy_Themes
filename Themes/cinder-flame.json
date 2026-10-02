@@ -58,8 +58,8 @@
             "#ede5dc"
         ],
         "BACKGROUND_PRIMARY": [
-            "#192428D9",
-            "#faf3eeD9"
+            "#0C0C0C",
+            "#0C0C0C"
         ],
         "BACKGROUND_SECONDARY": [
             "#141e21E6",
@@ -190,8 +190,8 @@
             "#6a5040"
         ],
         "TEXT_PRIMARY": [
-            "#ffd0b8",
-            "#2a1808"
+            "#F1E5D1",
+            "#F1E5D1"
         ],
         "TEXT_WARNING": [
             "#e09858",
@@ -581,7 +581,7 @@
         "CHAT_MENTIONS_FOREGROUND_DARK": "#FF7F50"
     },
     "background": {
-        "blur": 0.25,
+        "blur": 0.50,
         "url": "https://i.pinimg.com/736x/5f/5f/00/5f5f001d52f1feeb0714cd64060f6f79.jpg"
     },
     "plus": {
