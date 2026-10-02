@@ -1,10 +1,10 @@
 {
-    "name": "Cinder & Flame",
+    "name": "Cinder & Autumn",
     "description": "Deep teal-black Cinder meets warm coral Flame. Dark and warm.",
-    "version": "1.4",
+    "version": "2.4",
     "authors": [
         {
-            "name": "Ace",
+            "name": "Ace (Edits by Sinnana)",
             "id": "1225921043559088138"
         }
     ],
@@ -582,7 +582,7 @@
     },
     "background": {
         "blur": 0.05,
-        "url": "https://raw.githubusercontent.com/Tachyon-os/Tachy_Themes/main/Wallpapers/cinder-flame-wallpaper.png"
+        "url": "https://i.pinimg.com/736x/5f/5f/00/5f5f001d52f1feeb0714cd64060f6f79.jpg"
     },
     "plus": {
         "version": "0",
